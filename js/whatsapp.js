@@ -155,7 +155,7 @@
                 <option>Boa Vista</option>
                 <option>Manaus</option>
                 <option>Porto Velho</option>
-                <option>Ji-Paran </option>
+                <option>Ji-Paraná</option>
               </select>
               <div class="wa-error" id="wa_err_unid">Selecione uma unidade.</div>
             </div>
