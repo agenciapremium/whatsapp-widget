@@ -139,7 +139,7 @@
             <div class="wa-row">
               <label for="wa_fone">WhatsApp</label>
               <input id="wa_fone" name="fone" class="wa-input" inputmode="tel" placeholder="(DDD) 9 9999-9999" required />
-              <div class="wa-error" id="wa_err_fone">Informe um WhatsApp v lido (apenas n meros).</div>
+              <div class="wa-error" id="wa_err_fone">Informe um WhatsApp válido (apenas n meros).</div>
             </div>
             <div class="wa-actions">
               <button type="button" class="wa-btn ghost" id="wa_close1">Fechar</button>
