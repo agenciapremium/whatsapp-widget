@@ -9,7 +9,7 @@
     "Boa Vista": ["+5595991547084","+5595991755693","+5595991154487"],
     "Manaus": ["+559236547373","+559236346204"],
     "Porto Velho": ["+556932248204","+556930263103"],
-    "Ji-Paran ": ["+5569992520070"]
+    "Ji-Paraná": ["+5569992520070"]
   };
 
   // ====== SAFE BOOTSTRAP ======
@@ -165,7 +165,7 @@
             </div>
           </form>
         </div>
-        <div class="wa-foot">Atendimento via WhatsApp   Resposta r pida</div>
+        <div class="wa-foot">Atendimento via WhatsApp   Resposta rápida</div>
       </div>
     `;
     document.body.appendChild(wrap);
