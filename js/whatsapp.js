@@ -260,7 +260,7 @@
           openWhatsappRedirect(numeroEscolhido, msg);
         //});
       } else {
-        alert('N o foi poss vel obter um n mero de atendimento. Tente novamente em instantes.');
+        alert('Não foi possível obter um número de atendimento. Tente novamente em instantes.');
       }
     });
   }
